@@ -20,6 +20,13 @@ public class RandomName {
 		
 		System.out.println(Arrays.toString(names));
 		
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+		System.out.println("test");
+
+		
 	}
 
 }
