@@ -24,8 +24,7 @@ public class RandomName {
 		System.out.println("test");
 		System.out.println("test");
 		System.out.println("test");
-		System.out.println("test");
-
+	
 		
 	}
 
